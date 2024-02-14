@@ -143,8 +143,12 @@ Scope:
 Features That Can Add:
 
 •	Sending Purchased Slip to the Users Gmail.
+
 •	Exit Option After Booking.
+
 •	After Purchasing displaying Author Contact No.
+
 •	Getting the Qualification of the Students to guide them in a Proper way.
+
 •	Making Partnership with best Institutes and Displaying based on their reviews to purchase their Course’s.
 
