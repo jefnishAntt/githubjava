@@ -14,23 +14,19 @@ Synopsis:
 Introduction:
                 In this case, Java is the programming language being used, while Eclipse is the IDE in which the program was run. A package was made and given the name "Courses Purchase." Three classes are created inside the package and given the names Online Course, Course, and Purchasing.
 
-
-
-
-![image](https://github.com/jefnishAntt/githubjava/assets/159998733/2a3efaca-674c-4566-ae9f-1382db6fde86)
-
 Online Courses Class:
 •	Instance Variables were created to store the data.
 •	It was designated as private because the data are not wanted to be Accessed from outside of the class.
 •	A Constructor method was created with the parameters. Inside the Constructor Class Parameters Value was assigned to the Instance Variable of Class Here” this” method was used to refer the current classes instance variables for ambiguity between two variables.
 •	The Instance Variable data was private so it was not possible to access this data from other classes. To access these data from other classes, get method was created for each and every object to return its value.
- 
+
+![image](https://github.com/jefnishAntt/githubjava/assets/159998733/72cf3bba-e547-498a-866b-7baad3996ef7)
 
 •	Set method was created to change the value of the particular objects.
 •	Display Course Name method was created to display the value of the Course Name.
 •	Finally, the “to String method” was created to return the original code value of the Constructor Objects.
 
- 
+ ![image](https://github.com/jefnishAntt/githubjava/assets/159998733/0db4b375-eb32-414d-ab90-f80a13257439)
 
 Purchasing Class:
 •	The Array List Librarys and Scanner Library was inserted which is an inbuild in java.
@@ -48,9 +44,7 @@ Purchasing Class:
 •	The if condition was checking whether the purchased Course Name and Cost are equal to the Current Course Name and Cost if it was equal the Students value will be incremented by One.
 •	If the the students is lesser than max students it will return true else false.
 
- 
-
-
+![image](https://github.com/jefnishAntt/githubjava/assets/159998733/1a08b28b-cca8-4179-af1e-f7a93e6fcdf7)
 
 Course Class:
 •	The Scanner and Array List Library was inserted which was an Inbuild in java.
@@ -65,7 +59,8 @@ Course Class:
 •	“Enter The Course Name for Details” were asked to Printed. In the next line Input Method was Called and Value given by the user will be stored in the “CN” Variable.
 •	In the Switch Case Condition CN Variable is Allotted. The Switch Case Will check particular value of CN which is given by the user is matching to the case one by one if matches it will execute the particular Statement block.
 •	Inside the Switch Case the for each and every course the toString Method which convert’s the object to String was invoked to Object “courses”.
- 
+
+ ![image](https://github.com/jefnishAntt/githubjava/assets/159998733/f9371779-4dba-439a-8d1f-fad9ba06649b)
 
 •	If a Statement Block is executed the “break” keyword will Terminate the Loop. If none of the case match to “CN” default will be executed.
 •	After the Switch Case “Enter Next to Purchase the Course or Back to View Other Courses” Will Printed along with an Escape Sequence.
@@ -78,8 +73,7 @@ Course Class:
  
 •	If User enter Back in the Confirmation Input which was in Line no.62 It will ask for Course name which the User prefer to Purchase and Display its Details then the loop will be Continued from the beginning.
  
-
-
+![image](https://github.com/jefnishAntt/githubjava/assets/159998733/590b747e-3f6a-4751-bce3-501fda65c1ca)
 	
  
 Merits:
