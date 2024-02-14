@@ -15,6 +15,7 @@ Introduction:
                 In this case, Java is the programming language being used, while Eclipse is the IDE in which the program was run. A package was made and given the name "Courses Purchase." Three classes are created inside the package and given the names Online Course, Course, and Purchasing.
 
 Online Courses Class:
+
 •	Instance Variables were created to store the data.
 •	It was designated as private because the data are not wanted to be Accessed from outside of the class.
 •	A Constructor method was created with the parameters. Inside the Constructor Class Parameters Value was assigned to the Instance Variable of Class Here” this” method was used to refer the current classes instance variables for ambiguity between two variables.
